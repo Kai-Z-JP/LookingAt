@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "lookingat",
+    "name": "Looking At",
+    "description": "Information of where you are looking at",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/Kai-Z-JP/LookingAt",
+    "updateUrl": "",
+    "authorList": [
+      "Kaiz_JP"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
