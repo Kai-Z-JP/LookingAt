@@ -33,6 +33,11 @@ public class LookingAt {
         if (mc.gameSettings.showDebugInfo) {
             List<String> right = event.right;
             MovingObjectPosition mouseOver = mc.objectMouseOver;
+
+            if (mouseOver == null) {
+                return;
+            }
+
             switch (mouseOver.typeOfHit) {
                 case BLOCK:
                     right.add("");
