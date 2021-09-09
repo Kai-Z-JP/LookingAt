@@ -18,7 +18,7 @@ import java.util.List;
 public class LookingAt {
     public static final String MOD_ID = "lookingat";
     public static final String MOD_NAME = "Looking At";
-    public static final String VERSION = "1.0";
+    public static final String VERSION = "1.1";
 
     @Mod.EventHandler
     public void onPreInit(FMLPreInitializationEvent event) {
